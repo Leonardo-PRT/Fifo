@@ -1,5 +1,5 @@
 const Sequelize = require('sequelize')
-const dbconfig = require('../dbconfig')
+const dbconfig = require('../config/dbconfig')
 const User  = require('../models/User')
 const Game = require('../models/Game')
 const Mode = require('../models/Mode')
