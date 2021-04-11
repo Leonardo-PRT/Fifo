@@ -1,5 +1,5 @@
 # Fifo
-Back-end de uma aplicação promovida pelo programa de formação da Fcamara 
+Back-end de uma aplicação para otimização da fila de espera de uma empresa, promovida pelo programa de formação da Fcamara 
 
 # Dependências necessárias:
 
