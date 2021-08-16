@@ -1,20 +1,9 @@
 # Fifo
 Back-end de uma aplicação para otimização da fila de espera de uma empresa, promovida pelo programa de formação da Fcamara 
 
-# Dependências necessárias:
 
-  -node v12.19.0;
-  
-  -nodemon v2.0.6;
-  
-  -sequelize v6.3.5;
-  
-  -sequelize-cli v6.2.0;
-  
-  -express v4.17.1;
-  
-  -mysql v4.17.1;
+# Comandos da Aplicação:
 
-# Comando para inicar servidor:
+  -yarn || npm (instalar dependências);
 
-  -yarn dev / npm dev;
+  -yarn dev || npm dev (rodar o server);
